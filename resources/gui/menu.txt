@@ -1,0 +1,6 @@
+
+
+maybye i will make here views for scenes
+#### Main Menu ####/n1.Start Game/n2.Saves/n3.Exit/n###################/nEnterChoice:
+
+###### Saves ######\n1. ....\n2. ....\n3.Back to Main Menu\n###################\nEnterChoice:

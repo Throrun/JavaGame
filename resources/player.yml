@@ -1,0 +1,5 @@
+defaultPlayer:
+  hp: 100
+  money: 0
+  location: Spawn
+  weapon: null

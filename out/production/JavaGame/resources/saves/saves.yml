@@ -1,0 +1,17 @@
+saves:
+  - id: 1
+    name: exampleName
+    player:
+      name: Piotr
+      hp: 100
+      money: 50
+      location: Spawn
+      weapon: null
+  - id: 2
+    name: null
+    player:
+      name: example
+      hp: 100
+      money: 0
+      location: Spawn
+      weapon: null
